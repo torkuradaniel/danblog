@@ -1,7 +1,7 @@
 ---
 company: "VertoFX"
 role: "Product Manager"
-dateStart: "2020-01-01"
+dateStart: "2022-11-30"
 dateEnd: "Now"
 ---
 
