@@ -81,7 +81,7 @@ Leading indicators tell you what to adjust this week.
 
 Lagging indicators tell you whether those adjustments worked over time.
 
-![leading and lagging metrics](./screenshot-2026.png)
+![leading and lagging metrics flow](./screenshot-2026.png)
 
 ## When each type matters most
 Leading indicators matter most when:
