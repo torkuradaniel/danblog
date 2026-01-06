@@ -11,10 +11,6 @@ seo:
   keywords: ["Paystack", "commerce", "Africa", "creators", "product management", "growth"]
 ---
 
-# How to Improve Paystack Commerce
-
-*By Daniel Torkura*
-
 Paystack’s sweeping goal is to help African businesses get paid by anyone, anywhere in the world. In particular, **Paystack Commerce** is a toolkit for African creators to bring ideas to market seamlessly. It’s easy to set up, and creators can begin selling their products with just a few steps.
 
 ---

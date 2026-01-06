@@ -31,6 +31,8 @@ Here’s how the product worked and what I did:
 
 I could test the flow with steps 1–3 without writing any code. This trick helps with accessing capabilities and technology, aside from getting clarity on how to build the product.
 
+![Prototyping in ChatGPT](./prototype-chatgpt.png)
+
 ---
 
 ## Bonus Hack: Basic Eval Setup

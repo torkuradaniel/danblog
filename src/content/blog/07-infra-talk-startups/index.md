@@ -22,6 +22,8 @@ Let me start with a snippet from *The Everything Store*. After all, “the every
 
 Amazon realised early on that a company (the software) comprises multiple components. These components come together to form software that provides value to users.
 
+![Software Components](./infra-001.jpg)
+
 For example, a loan app (Fintech) like **Carbon** has different parts:
 - Registration (OTP and related services)  
 - KYC  
@@ -75,6 +77,8 @@ Some African companies are now opening up their internal infra for others to use
 ## Brass Needs Brass and Asphalt
 
 Brass underscores the importance of infra: the ability to build and launch fast. To deliver branchless business banking, Brass leverages a suite of services for seamless UX.
+
+![Building blocks](./infra-002.png)
 
 ---
 
