@@ -104,10 +104,6 @@ Leading indicators matter most when:
 
 # A short takeaway
 
-Lagging indicators are your scoreboard. They’re accurate, but late.
+Lagging indicators are your scoreboard. They’re accurate, but late. Leading indicators are your levers. They’re early, but imperfect.
 
-Leading indicators are your levers. They’re early, but imperfect.
-
-The best systems use both: lead to manage, lag to learn.
-
-If you tell me the context you’re writing for (economics, project management, health, finance, or business KPIs), I can tailor the article with domain-specific examples and a tighter structure.
+The best systems use both: lead to manage, lag to learn. Stop focusing only on why revenue hasn't increased.
