@@ -1,7 +1,19 @@
 {
   "name": "astro-sphere",
-  "type": "module",
   "version": "1.0.0",
+  "description": "![Astro Sphere Lighthouse Score](_astrosphere.jpg)",
+  "homepage": "https://github.com/torkuradaniel/danblog#readme",
+  "bugs": {
+    "url": "https://github.com/torkuradaniel/danblog/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torkuradaniel/danblog.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
   "scripts": {
     "dev": "astro dev",
     "dev:network": "astro dev --host",
