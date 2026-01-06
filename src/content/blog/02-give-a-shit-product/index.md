@@ -9,7 +9,7 @@ tags: ["products", "ux", "design"]
 
 Most products don't feel like the people buiding them gave a shit about the people using them.
 
-Care shows up in tiny decisions: the extra half-second you don’t waste, the mistake you don’t make, the unexpected deligh, the support so I don't get stuck, the action taken on my behalf so I finish faster, the extra step to make the flow easier, the awkward moment you don’t have to recover from. It’s invisible when it works—and unforgettable when it doesn’t. 
+Care shows up in tiny decisions: the extra half-second you don’t waste, the mistake you don’t make, the unexpected deligh, the support so I don't get stuck, the action taken on my behalf so I finish faster, the extra step to make the flow easier, the awkward moment you don’t have to recover from. It’s invisible when it works and unforgettable when it doesn’t. 
 
 So here’s a tour of exceptional user experiences that quietly say: yes, someone here gave a shit. Not in a “polished marketing” way. In a “your life is already hard; we removed friction you didn’t even know you were carrying” way.
 
@@ -22,3 +22,6 @@ Apples one tap OTP autofill experience is awesome.
 
 # OPay's auto paste account number
 OPay's auto paste account number is also awesome. Once I copy an account number, it automatically prompts me to add in the account number field when I open the app.
+
+
+Cheers to more magical experiences.
