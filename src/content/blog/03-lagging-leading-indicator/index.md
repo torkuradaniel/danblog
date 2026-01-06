@@ -9,7 +9,7 @@ tags: ["revenue", "growth", "business", "startups"]
 
 Revenue is an outcome. Your revenue doesn't grow magically. There are certain things that lead to revenue growth.
 
-You do certain things to drive revenue growth. But those things don't lead to revenue growth overnight. The actions you doing are affecting the leading indicators. But your revenue is a lagging indicator. You need to identify leading drivers like pipeline creation, pricing changes, win rate, or retention.
+You do certain things to drive revenue growth. But those things don't lead to revenue growth overnight. The actions you doing are affecting the leading indicators. But your revenue is a lagging indicator. You need to identify leading drivers like activation,pipeline creation, pricing changes, win rate, or retention.
 
 ## Picking “leading indicators” that don’t actually lead
 
@@ -82,6 +82,8 @@ Leading indicators tell you what to adjust this week.
 Lagging indicators tell you whether those adjustments worked over time.
 
 ![leading and lagging metrics flow](./screenshot-2026.png)
+
+
 
 ## When each type matters most
 Leading indicators matter most when:
