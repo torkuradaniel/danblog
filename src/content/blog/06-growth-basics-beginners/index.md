@@ -1,5 +1,4 @@
 ---
-layout: blog
 title: "Growth Basics: Getting a Grasp of What Real Growth Is"
 summary: "Understanding growth through funnels, frameworks, and measurement."
 author: "Daniel Torkura"
