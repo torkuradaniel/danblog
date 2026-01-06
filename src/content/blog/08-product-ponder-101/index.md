@@ -4,7 +4,7 @@ summary: "A collection of thought-provoking articles that shaped my perspective 
 author: "Daniel Torkura"
 date: "2020-10-29"
 description: "A collection of thought-provoking articles that shaped my perspective on product management."
-tags: ["product management", "strategy", "growth", "psychology", "innovation"]
+tags: ["strategy", "growth", "psychology", "innovation"]
 seo:
   title: "Product Ponder 001 - Daniel Torkura"
   description: "Summaries and musings on key product management articles covering problem vs solution, alternatives, user friction, disruption, moats, and signalling."

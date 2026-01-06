@@ -18,6 +18,7 @@ export default function SearchCollection({ entry_name, data, tags }: Props) {
   const [filter, setFilter] = createSignal(new Set<string>())
   const [collection, setCollection] = createSignal<CollectionEntry<'blog'>[]>([])
   const [descending, setDescending] = createSignal(false);
+  const [showTagFilters, setShowTagFilters] = createSignal(false);
 
   const fuse = new Fuse(coerced, {
     keys: ["slug", "data.title", "data.summary", "data.tags"],
@@ -77,58 +78,84 @@ export default function SearchCollection({ entry_name, data, tags }: Props) {
           {/* Search Bar */}
           <SearchBar onSearchInput={onSearchInput} query={query} setQuery={setQuery} placeholderText={`Search ${entry_name}`} />
           {/* Tag Filters */}
-          <div class="relative flex flex-row justify-between w-full"><p class="text-sm font-semibold uppercase my-4 text-black dark:text-white">Tags</p>
+          <div class="relative flex flex-row justify-between items-center w-full mb-4 mt-6">
+            <div class="flex items-center gap-3">
+              <span class="text-sm font-semibold uppercase text-black dark:text-white">Filter using tags</span>
+              <button
+                onClick={() => setShowTagFilters(!showTagFilters())}
+                class={cn(
+                  "relative inline-flex h-6 w-11 items-center rounded-full transition-colors duration-200 ease-in-out",
+                  showTagFilters() 
+                    ? "bg-black dark:bg-white" 
+                    : "bg-black/20 dark:bg-white/20"
+                )}
+                role="switch"
+                aria-checked={showTagFilters()}
+              >
+                <span
+                  class={cn(
+                    "inline-block h-4 w-4 transform rounded-full transition-transform duration-200 ease-in-out",
+                    showTagFilters() 
+                      ? "translate-x-6 bg-white dark:bg-black" 
+                      : "translate-x-1 bg-black dark:bg-white"
+                  )}
+                />
+              </button>
+            </div>
             {filter().size > 0 && (
               <button
                 onClick={clearFilters}
-                class="absolute flex justify-center items-center h-full w-10 right-0 top-0 stroke-neutral-400 dark:stroke-neutral-500 hover:stroke-neutral-600 hover:dark:stroke-neutral-300"
+                class="flex justify-center items-center h-8 w-8 stroke-neutral-400 dark:stroke-neutral-500 hover:stroke-neutral-600 hover:dark:stroke-neutral-300"
               >
                 <svg class="size-5">
                   <use href={`/ui.svg#x`} />
                 </svg>
               </button>
-            )}</div>
-          <ul class="flex flex-wrap sm:flex-col gap-1.5">
-            <For each={tags}>
-              {(tag) => (
-                <li class="sm:w-full">
-                  <button
-                    onClick={() => toggleTag(tag)}
-                    class={cn(
-                      "w-full px-2 py-1 rounded",
-                      "flex gap-2 items-center",
-                      "bg-black/5 dark:bg-white/10",
-                      "hover:bg-black/10 hover:dark:bg-white/15",
-                      "transition-colors duration-300 ease-in-out",
-                      filter().has(tag) && "text-black dark:text-white"
-                    )}
-                  >
-                    <svg
+            )}
+          </div>
+          {showTagFilters() && (
+            <ul class="flex flex-wrap sm:flex-col gap-1.5">
+              <For each={tags}>
+                {(tag) => (
+                  <li class="sm:w-full">
+                    <button
+                      onClick={() => toggleTag(tag)}
                       class={cn(
-                        "shrink-0 size-5 fill-black/50 dark:fill-white/50",
+                        "w-full px-2 py-1 rounded",
+                        "flex gap-2 items-center",
+                        "bg-black/5 dark:bg-white/10",
+                        "hover:bg-black/10 hover:dark:bg-white/15",
                         "transition-colors duration-300 ease-in-out",
-                        filter().has(tag) && "fill-black dark:fill-white"
+                        filter().has(tag) && "text-black dark:text-white"
                       )}
                     >
-                      <use
-                        href={`/ui.svg#square`}
-                        class={cn(!filter().has(tag) ? "block" : "hidden")}
-                      />
-                      <use
-                        href={`/ui.svg#square-check`}
-                        class={cn(filter().has(tag) ? "block" : "hidden")}
-                      />
-                    </svg>
+                      <svg
+                        class={cn(
+                          "shrink-0 size-5 fill-black/50 dark:fill-white/50",
+                          "transition-colors duration-300 ease-in-out",
+                          filter().has(tag) && "fill-black dark:fill-white"
+                        )}
+                      >
+                        <use
+                          href={`/ui.svg#square`}
+                          class={cn(!filter().has(tag) ? "block" : "hidden")}
+                        />
+                        <use
+                          href={`/ui.svg#square-check`}
+                          class={cn(filter().has(tag) ? "block" : "hidden")}
+                        />
+                      </svg>
 
-                    <span class="truncate block min-w-0 pt-[2px]">
-                      {tag}
-                    </span>
-                  </button>
+                      <span class="truncate block min-w-0 pt-[2px]">
+                        {tag}
+                      </span>
+                    </button>
 
-                </li>
-              )}
-            </For>
-          </ul>
+                  </li>
+                )}
+              </For>
+            </ul>
+          )}
         </div>
       </div>
       {/* Posts */}

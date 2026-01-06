@@ -4,7 +4,7 @@ summary: "How the internet has torn the veil and made expertise, capital, and ne
 author: "Daniel Torkura"
 date: "2021-09-25"
 description: "How the internet has torn the veil and made expertise, capital, and networks permissionless."
-tags: ["internet", "permissionless", "capital", "Africa", "startups"]
+tags: ["internet", "capital", "startups"]
 ---
 
 > “The internet has become an institution of its own that’s reshaping who can become an expert, how they share their expertise and the ways they can earn a living from it.” — Fadeke Adegbuyi

@@ -4,7 +4,7 @@ summary: "Why infrastructure startups are important for ecosystem and product gr
 author: "Daniel Torkura"
 date: "2021-12-20"
 description: "Musings about digital infrastructure in Africa"
-tags: ["infrastructure", "Africa", "startups", "fintech"]
+tags: ["infrastructure", "startups", "fintech"]
 ---
 
 

@@ -4,7 +4,7 @@ summary: "Products that feel like someone gave a shit"
 author: "Daniel Torkura"
 date: "2024-04-15"
 description: "Products that feel like someone gave a shit"
-tags: ["products", "ux", "design"]
+tags: ["ux", "design"]
 ---
 
 Most products don't feel like the people buiding them gave a shit about the people using them.

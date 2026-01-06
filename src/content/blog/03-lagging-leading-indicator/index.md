@@ -4,7 +4,7 @@ summary: "Revenue growth requires on focusing on other things rather than revenu
 author: "Daniel Torkura"
 date: "2023-09-25"
 description: "How to think about growth in a way that sets you up for success."
-tags: ["revenue", "growth", "business", "startups"]
+tags: ["growth", "startups"]
 ---
 
 Revenue is an outcome. Your revenue doesn't grow magically. There are certain things that lead to revenue growth.

@@ -8,7 +8,7 @@ tags: ["AI", "prototyping", "startups", "product development"]
 seo:
   title: "My Approach to Prototyping AI Products - Daniel Torkura"
   description: "A practical guide to simulating and testing AI product flows before writing code."
-  keywords: ["AI", "prototyping", "ChatGPT", "MagicalDB", "product development"]
+  keywords: ["AI", "prototyping", "product development"]
 ---
 
 I’m not good at writing short articles, but hopefully this attempt will be successful. I’ve been developing AI products for some time now and, in the process, have learned a simple trick that I’ve also seen my friends use:

@@ -4,11 +4,11 @@ summary: "Understanding growth through funnels, frameworks, and measurement."
 author: "Daniel Torkura"
 date: "2020-08-21"
 description: "Understanding growth through funnels, frameworks, and measurement."
-tags: ["growth", "startups", "funnels", "product management", "metrics"]
+tags: ["growth", "startups", "funnels", "metrics"]
 seo:
   title: "Growth Basics: Getting a Grasp of What Real Growth Is - Daniel Torkura"
   description: "A practical guide to understanding real growth using funnels, frameworks, and measurement."
-  keywords: ["growth", "funnels", "AARRR", "Julian Shapiro", "e-commerce", "metrics"]
+  keywords: ["growth", "funnels", "e-commerce", "metrics"]
 ---
 
 Most people overcomplicate things when trying to explain what growth is. Growth is the entire process of how you take a prospective user from being aware of your product to becoming an evangelist, using a data-driven approach.
