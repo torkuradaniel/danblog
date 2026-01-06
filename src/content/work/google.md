@@ -1,12 +1,11 @@
 ---
-company: "Google"
-role: "Staff Software Engineer"
-dateStart: "11/27/2022"
-dateEnd: "Now"
+company: "Pledre"
+role: "growth product manager"
+dateStart: "2019-11-27"
+dateEnd: "2022-11-11"
 ---
 
-Sit amet consectetur adipisicing elit. Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor.
+<!-- Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum.
 
-- Aadipisicing elit. Iure illo neque tempora, voluptatem est.
-- dolorem dignissimos nulla ratione.
-- Quibusdam, debitis voluptatum, lorem ipsum dolor.
+- Quibusdam, debitis voluptatum.
+- amet consectetur adipisicing elit. Iure illo neque tempora. -->

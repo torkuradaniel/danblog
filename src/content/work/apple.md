@@ -1,11 +1,11 @@
 ---
-company: "Apple"
-role: "Software Engineer"
-dateStart: "01/01/2020"
-dateEnd: "11/27/2022"
+company: "VertoFX"
+role: "Product Manager"
+dateStart: "2020-01-01"
+dateEnd: "Now"
 ---
 
-Voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit. Iure illo neque tempora.
+<!-- Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum.
 
-- Sit amet consectetur adipisicing elit. Iure illo neque tempora.
-- Quibusdam, debitis voluptatum, lorem ipsum
+- Quibusdam, debitis voluptatum.
+- amet consectetur adipisicing elit. Iure illo neque tempora. -->

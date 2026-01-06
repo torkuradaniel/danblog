@@ -1,10 +1,11 @@
 ---
-company: "Facebook"
-role: "Intern"
-dateStart: "07/01/2019"
-dateEnd: "12/31/2019"
+company: "Moneymie"
+role: "Product Manager"
+dateStart: "2021-01-26"
+dateEnd: "2022-10-22"
 ---
 
-Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit.
+<!-- Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum.
 
-- Sit amet consectetur adipisicing elit.
+- Quibusdam, debitis voluptatum.
+- amet consectetur adipisicing elit. Iure illo neque tempora. -->
