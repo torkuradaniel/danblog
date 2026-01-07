@@ -24,14 +24,6 @@ theX is a community of young people looking to find answers about questions they
 
 Joining the community will open up the world of technology to an individual. The community operates offline majorly with a community [blog](http://thex.ng) that offers lots of useful information. Members and non-members alike can go get information about the community and also learn from the knowledge there. This way a young person learns about the tech industry, various tech careers, how to navigate the world of startups, how to acquire relevant skills, find answers to the deep-seated questions they may have about tech in our society and their lives both from the community and it’s members through these two channels. The community meets every fortnight where we discuss, learn and share our stories.
 
-## Get Daniel Torkura’s stories in your inbox
-
-Join Medium for free to get updates from this writer.
-
-Subscribe
-
-Subscribe
-
 This community is personal to me. This is because, at different times in my life, I have been confused about what to do and once I discover a community around that interest, I gained a better understanding and make better decisions. When I left home for university, I wanted to write but never knew how to go about it. Discovering a community of writers in Ibadan, helped me to write better and to make a decision about how much writing I want to do. In tech, the story is the same. A community of friends helped me grow and here I am creating a community for others.
 
 The community will be domiciled in the campuses of higher institutions but is open to everybody. Individuals will get to attend community meetups at the campus near them. Each community is led by a Lead Xer who is a member of that community. Community activities will be based on our tripod of learning, growing and having fun.
