@@ -2,6 +2,7 @@
 title: "How to Improve Paystack Commerce"
 summary: "Exploring ways to enhance Paystack Commerce for African creators, focusing on acquisition and growth."
 author: "Daniel Torkura"
+draft: true
 date: "2022-01-19"
 description: "Exploring ways to enhance Paystack Commerce for African creators, focusing on acquisition and growth."
 tags: ["product management", "growth"]
