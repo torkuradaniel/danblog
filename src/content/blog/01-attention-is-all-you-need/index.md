@@ -7,7 +7,7 @@ description: "Attention is all you need"
 tags: ["product", "marketing", "growth"]
 ---
 
-As AI makes it easier to build stuff, the biggest difficulty to building a tech company will shift to growing the product (like it wasn’t before?).
+As [AI makes it easier to build stuff](https://youtu.be/t0U3UREdjmo?si=cre4RmPdN-r1rCpk), the biggest difficulty to building a tech company will shift to growing the product (like it wasn’t before?).
 
 As acquisition gets noisier, pricier, and harder to attribute, the real advantage shifts to something more fundamental than any single channel - getting attention.
 
@@ -81,7 +81,7 @@ Most companies won’t become traditional media companies. But many will become 
 
 In a world where acquisition channels get squeezed, the companies that win won’t be the ones with the biggest budgets. They’ll be the ones who can consistently create attention, convert it into trust, and turn that trust into growth. Because attention is all they need to grow.
 
-More influencers are launching products to compete with main stream companies? Depending on the success of this trend, we will see the effect on many more companies*.
+[More influencers are launching products](https://www.complex.com/pop-culture/a/cmplxtara-mahadevan/mrbeast-trademark-bank-app) to compete with main stream companies? Depending on the success of this trend, we will see the effect on many more companies*.
 
 ![mr best launching bank](./mr-beast-003.png)
 
