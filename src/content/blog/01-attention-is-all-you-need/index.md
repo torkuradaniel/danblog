@@ -2,7 +2,7 @@
 title: "Attention is all you need"
 summary: "In a world where acquisition channels get squeezed, the companies who will consistently manufacture attention"
 author: "Daniel Torkura"
-date: "2023-12-15"
+date: "2023-12-22"
 description: "Attention is all you need"
 tags: ["product", "marketing", "growth"]
 ---
