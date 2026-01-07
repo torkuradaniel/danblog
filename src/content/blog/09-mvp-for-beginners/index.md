@@ -11,10 +11,6 @@ seo:
   keywords: ["MVP", "Minimum Viable Product", "PMF", "product management", "validation", "startups"]
 ---
 
-# MVP for Beginners
-
-*By Daniel Torkura*
-
 > **TL; DR**: An MVP is a litmus test for demand validation and learning.
 
 MVP stands for **Minimum Viable Product** (or Minimum Valuable Product). You’ve probably heard the term thrown around as a buzzword. The goal here is to leave you not only with a good grip of what an MVP is but also capable of applying it.

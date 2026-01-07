@@ -2,7 +2,7 @@
 title: "Product people! Please give a shit"
 summary: "Products that feel like someone gave a shit"
 author: "Daniel Torkura"
-date: "2024-04-15"
+date: "2024-10-15"
 description: "Products that feel like someone gave a shit"
 tags: ["ux", "design"]
 ---
