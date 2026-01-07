@@ -1,5 +1,5 @@
 ---
-title: "Jobtout"
+title: "jobtout"
 summary: "a better google alerts alternative"
 date: "Nov 18 2025"
 draft: false

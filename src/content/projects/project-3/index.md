@@ -1,7 +1,7 @@
 ---
 title: "african infra startups"
 summary: "a collection of African companies building infrastructure products"
-date: "Mar 16 2022"
+date: "Aug 16 2022"
 draft: false
 tags:
 - Notion
