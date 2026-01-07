@@ -3,6 +3,7 @@ title: "Growth Basics: Getting a Grasp of What Real Growth Is"
 summary: "Understanding growth through funnels, frameworks, and measurement."
 author: "Daniel Torkura"
 date: "2020-08-21"
+draft: true
 description: "Understanding growth through funnels, frameworks, and measurement."
 tags: ["growth", "startups", "funnels", "metrics"]
 seo:
@@ -11,9 +12,15 @@ seo:
   keywords: ["growth", "funnels", "e-commerce", "metrics"]
 ---
 
-Most people overcomplicate things when trying to explain what growth is. Growth is the entire process of how you take a prospective user from being aware of your product to becoming an evangelist, using a data-driven approach.
+Most people overcomplicate things when trying to explain what growth is. Growth is the entire process of how you take a prospective user from being aware of your product to becoming an evangelist, making use of a data-driven approach.
 
-Growth can get complicated quickly if it isn’t measured (and visualized) to know what strategy is working. Funnels play a huge part in understanding growth. Thinking in terms of funnels helps measure growth and gives an in-depth view of how well your product is performing.
+Growth can get complicated quickly if it isn’t measured (and visualized) to know what growth strategy is working. Funnels play a huge part in understanding growth. Thinking in terms of funnels will help with measuring growth and give you an in-depth view of how well your product is performing.
+
+Funnel thinking is as easy as it gets. The key here is to think of this literally as a funnel because that is what it is. Imagine how a substance passes through a funnel from top to bottom. That is how your customers will ideally move. There is usually a starting point and a potential destination — which is where you so badly want them to get to.
+
+Growth happens via channels and is understood using funnels. Channels are the answer to the question, how will you get users? — although a lot of nitty-gritty is still involved.
+
+In this article, I won’t be going into growth channels, but [here is an excellent resource](https://medium.com/@yegg/the-bullseye-framework-for-getting-traction-ef49d05bfd7e).
 
 ---
 

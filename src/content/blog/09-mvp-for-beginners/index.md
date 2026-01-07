@@ -2,6 +2,7 @@
 title: "MVP for Beginners"
 summary: "An MVP is a litmus test for demand validation and learning. A practical guide to building and understanding Minimum Viable Products."
 author: "Daniel Torkura"
+draft: true
 date: "2020-10-07"
 description: "An MVP is a litmus test for demand validation and learning. A practical guide to building and understanding Minimum Viable Products."
 tags: ["MVP", "product management", "startups", "PMF"]
