@@ -72,7 +72,7 @@ Getting credit history data and deciding who to give loans to has always been an
 They provide developer-friendly data infrastructure, out-of-the-box machine learning models, insights, and data science tools that help lenders make better lending decisions. These components are the building blocks for anyone to create innovative (lending) products and customised user experiences.
 
 ### Union54
-U[nion54](https://union54.com/) provides an API to issue debit cards without needing a bank or a third-party processor. These APIs enable startups to launch virtual or physical cards faster with fewer hassles.
+[Union54](https://union54.com/) provides an API to issue debit cards without needing a bank or a third-party processor. These APIs enable startups to launch virtual or physical cards faster with fewer hassles.
 
 ### Bloc
 [Bloc](https://blochq.io/) is a full end-to-end service that provides everything from payment to card issuance APIs. The ultimate goal is to handle everything African FinTechs need to launch and thrive. Time would tell whether this move works and is good for the industry.
