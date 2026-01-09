@@ -10,5 +10,5 @@ tags:
 
 Cutebabypix was a fun project that used AI to generate images of babies based on the image of a male and female. It amassed over 2,000 users in its first month.
 
-![](./screenshot-cutebabypix-001.png)
-![](./screenshot-cutebabypix-002.png)
+![](./screenshot-cute-001.jpg)
+![](./screenshot-cute-002.jpg)
