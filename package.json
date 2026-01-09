@@ -18,7 +18,7 @@
     "dev": "astro dev",
     "dev:network": "astro dev --host",
     "start": "astro dev",
-    "build": "astro check && astro build",
+    "build": "astro check && astro build && node scripts/generate-sitemap.js",
     "preview": "astro preview",
     "preview:network": "astro dev --host",
     "astro": "astro",
@@ -41,5 +41,8 @@
     "tailwind-merge": "^2.2.1",
     "tailwindcss": "^3.4.1",
     "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "globby": "^16.1.0"
   }
 }
