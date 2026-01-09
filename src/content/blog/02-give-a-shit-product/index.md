@@ -1,9 +1,9 @@
 ---
 title: "Product people! Please give a shit"
-summary: "Products that feel like someone gave a shit"
+summary: "Products that feel like someone gave a fu*k"
 author: "Daniel Torkura"
 date: "2024-10-15"
-description: "Products that feel like someone gave a shit"
+description: "Products that feel like someone gave a fu*k"
 tags: ["ux", "design"]
 ---
 
